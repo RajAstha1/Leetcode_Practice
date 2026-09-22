@@ -13,11 +13,13 @@
 |  |
 | ------- |
 | [0504-base-7](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0322-coin-change) |
+| [0509-fibonacci-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
@@ -64,4 +66,12 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0324-wiggle-sort-ii) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
