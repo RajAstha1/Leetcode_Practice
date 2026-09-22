@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0504-base-7](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0504-base-7) |
 | [3524-find-x-value-of-array-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0504-base-7](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0504-base-7) |
 ## Bit Manipulation
 |  |
 | ------- |
