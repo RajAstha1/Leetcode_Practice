@@ -9,6 +9,7 @@
 | [0324-wiggle-sort-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0324-wiggle-sort-ii) |
 | [0503-next-greater-element-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [3524-find-x-value-of-array-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Math
 |  |
@@ -80,8 +81,10 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
