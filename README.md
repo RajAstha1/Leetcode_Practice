@@ -34,6 +34,7 @@
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0504-base-7](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0504-base-7) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Bit Manipulation
 |  |
 | ------- |
