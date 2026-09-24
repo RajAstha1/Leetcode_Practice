@@ -39,6 +39,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0504-base-7](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0567-permutation-in-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,9 +85,18 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
