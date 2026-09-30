@@ -33,6 +33,7 @@
 | [0316-remove-duplicate-letters](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0504-base-7](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0567-permutation-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0567-permutation-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
