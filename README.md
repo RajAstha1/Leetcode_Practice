@@ -31,6 +31,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -44,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0504-base-7](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0504-base-7) |
@@ -117,6 +119,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Binary Search
 |  |
