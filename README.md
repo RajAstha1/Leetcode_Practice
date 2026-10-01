@@ -8,6 +8,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0324-wiggle-sort-ii) |
+| [0413-arithmetic-slices](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0413-arithmetic-slices) |
 | [0436-find-right-interval](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0436-find-right-interval) |
 | [0503-next-greater-element-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0525-contiguous-array) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0322-coin-change) |
+| [0413-arithmetic-slices](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
@@ -117,6 +119,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 ## Bracket Sequences
 |  |
