@@ -11,6 +11,7 @@
 | [0324-wiggle-sort-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0413-arithmetic-slices](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0436-find-right-interval) |
 | [0503-next-greater-element-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0525-contiguous-array) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0324-wiggle-sort-ii) |
+| [0414-third-maximum-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0436-find-right-interval) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Quickselect
