@@ -36,6 +36,7 @@
 | [0322-coin-change](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
@@ -45,6 +46,7 @@
 | [0316-remove-duplicate-letters](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
 |  |
@@ -62,6 +64,7 @@
 | [0504-base-7](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bit Manipulation
 |  |
@@ -90,6 +93,7 @@
 | [0324-wiggle-sort-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +144,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Binary Search
 |  |
