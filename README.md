@@ -64,6 +64,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0504-base-7](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0504-base-7) |
@@ -82,6 +83,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
