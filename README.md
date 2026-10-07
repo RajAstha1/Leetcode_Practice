@@ -35,6 +35,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0322-coin-change](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0413-arithmetic-slices) |
@@ -62,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -147,6 +149,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0344-reverse-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -184,4 +187,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0301-remove-invalid-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
