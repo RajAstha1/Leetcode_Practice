@@ -64,6 +64,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -145,6 +146,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
