@@ -21,6 +21,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0704-binary-search) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [3524-find-x-value-of-array-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -112,6 +113,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Quickselect
 |  |
 | ------- |
