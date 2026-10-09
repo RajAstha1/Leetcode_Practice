@@ -56,6 +56,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Sorting
 |  |
@@ -176,6 +179,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Binary Search
 |  |
 | ------- |
