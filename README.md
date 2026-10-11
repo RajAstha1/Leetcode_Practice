@@ -24,6 +24,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -209,4 +210,8 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
