@@ -24,6 +24,7 @@
 | [0645-set-mismatch](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0704-binary-search) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
@@ -41,6 +42,7 @@
 | [0504-base-7](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0539-minimum-time-difference) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -55,6 +57,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
@@ -122,6 +125,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0324-wiggle-sort-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -166,6 +170,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,4 +258,28 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
