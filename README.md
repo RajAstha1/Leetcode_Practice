@@ -22,6 +22,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0704-binary-search) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -51,6 +52,7 @@
 | [0322-coin-change](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
@@ -125,6 +127,7 @@
 | [0324-wiggle-sort-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0646-maximum-length-of-pair-chain](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -144,6 +147,7 @@
 | [0539-minimum-time-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -215,6 +219,7 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 ## Simulation
 |  |
 | ------- |
