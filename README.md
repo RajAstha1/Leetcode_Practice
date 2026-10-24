@@ -47,6 +47,7 @@
 | [0509-fibonacci-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0539-minimum-time-difference) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -108,6 +109,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
