@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0322-coin-change) |
@@ -234,6 +235,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0436-find-right-interval](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
