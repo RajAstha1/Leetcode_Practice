@@ -16,6 +16,7 @@
 | [0436-find-right-interval](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0539-minimum-time-difference) |
@@ -174,6 +176,7 @@
 | [0414-third-maximum-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
