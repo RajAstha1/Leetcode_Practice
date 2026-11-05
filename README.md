@@ -27,6 +27,7 @@
 | [0645-set-mismatch](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -187,6 +188,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -237,6 +239,7 @@
 | [0567-permutation-in-string](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -262,6 +265,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0436-find-right-interval](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Longest Increasing Subsequence
