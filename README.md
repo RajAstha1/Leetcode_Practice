@@ -28,6 +28,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0704-binary-search) |
 | [1267-count-servers-that-communicate](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -69,6 +70,7 @@
 | [0504-base-7](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0539-minimum-time-difference) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/RajAstha1/Leetcode_Practice/tree/master/2409-count-days-spent-together) |
@@ -260,6 +262,7 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajAstha1/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
@@ -416,4 +419,12 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RajAstha1/Leetcode_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RajAstha1/Leetcode_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
